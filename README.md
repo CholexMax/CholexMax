@@ -1,24 +1,22 @@
-<!-- Welcome Section -->
+<!-- Neon-Themed Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Wave Animation">
-  <h1>Hey there, I'm <strong>CholexMax</strong>! 🚀</h1>
-  <p><em>"Code, Coffee, Repeat!" ☕</em></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A3B9&width=500&lines=Frontend+Fanatic+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+Explorer+%F0%9F%8E%AF;Future+Web3+Innovator+%F0%9F%92%8E;Always+Learning+Something+New+%F0%9F%A7%AA" alt="Typing Animation">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Wave Animation">
+  <h1 style="color: #0ff; text-shadow: 0 0 20px #0ff, 0 0 30px #0ff;">Welcome to <strong>CholexMax's</strong> Neon World! 🚀</h1>
+  <p><em>"Code in the day, glow in the dark 🌟"</em></p>
 </div>
 
 ---
 
-<!-- About Me -->
-### 🌟 About Me
-- 🌱 **Currently Learning**: MERN Stack (MongoDB, Express.js, React.js, Node.js).
-- 🤖 **Future Goals**: Explore **AI/ML**, **DevOps**, **Android/iOS Development**, and **Web3**.
-- 🎯 **Fun Fact**: I can turn bugs into "unexpected features"! 🐛✨
-- 🛠️ **Hobbies**: Coding cool stuff, making people laugh, and finding excuses to avoid debugging.
+<!-- Neon Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Neon&size=24&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Welcome+to+the+Future+of+Coding!;Neon+Vibes+Only+💡;Frontend+Fanatic+🔥;MERN+Stack+Explorer+🌐;Let's+Glow!+🌟" alt="Neon Typing Animation">
+</div>
 
 ---
 
 <!-- Developer Card -->
 <div align="center">
+  <h2 style="color: #f0f; text-shadow: 0 0 20px #f0f;">🌟 My Developer Card 🌟</h2>
   <a href="https://app.daily.dev/cholexmax">
     <img src="https://api.daily.dev/devcards/v2/khEBosXNImqe4izloUnb2.png?type=default&r=zmz" width="350" alt="CholexMax's Dev Card">
   </a>
@@ -26,13 +24,21 @@
 
 ---
 
-<!-- Snake Animation -->
+<!-- Song Player -->
 <div align="center">
-  <h3>🐍 Watch Out for the Contribution-Eating Snake! 🐍</h3>
-  <img src="https://github.com/CholexMax/CholexMax/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <h2 style="color: #ff007f; text-shadow: 0 0 15px #ff007f;">🎵 Now Playing 🎵</h2>
+  <p><em>Feeling the groove while coding! 🎧</em></p>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1&loop=1&playlist=dQw4w9WgXcQ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; loop" 
+    allowfullscreen>
+  </iframe>
 </div>
 
 ---
+
 
 <!-- Funny GIFs Section -->
 <div align="center">
@@ -44,12 +50,18 @@
 
 ---
 
-<!-- Cool Skillset -->
-### 🛠️ My Tech Arsenal
-| 💻 Frontend         | ⚙️ Backend         | 🎨 Design Tools       | 🛠️ Dev Tools         |
-|---------------------|--------------------|-----------------------|----------------------|
-| HTML, CSS, React.js | Node.js, Express.js | Figma, Photoshop      | Git, GitHub, VS Code |
-| JavaScript          | MongoDB            | Canva                 | Terminal Magic       |
+<!-- Neon Skills Section -->
+### 🛠️ My Tech Toolbox (Neon-Style)
+```yaml
+- 🔥 Frontend:
+    - React.js, HTML, CSS, JavaScript
+- ⚙️ Backend:
+    - Node.js, Express.js
+- 💾 Database:
+    - MongoDB
+- 🚀 Tools:
+    - Git, GitHub, VS Code
+    - Figma, Photoshop
 
 ---
 
