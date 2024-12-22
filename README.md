@@ -1,18 +1,19 @@
 <!-- Welcome Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Welcome Animation">
-  <h1>Hi there, I'm <strong>CholexMax</strong>! 👋</h1>
-  <p>Welcome to my GitHub profile! 🚀 Let's explore some cool projects together. 🛠️</p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Wave Animation">
+  <h1>Hey there, I'm <strong>CholexMax</strong>! 🚀</h1>
+  <p><em>"Code, Coffee, Repeat!" ☕</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A3B9&width=500&lines=Frontend+Fanatic+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+Explorer+%F0%9F%8E%AF;Future+Web3+Innovator+%F0%9F%92%8E;Always+Learning+Something+New+%F0%9F%A7%AA" alt="Typing Animation">
 </div>
 
 ---
 
 <!-- About Me -->
 ### 🌟 About Me
-- 🌱 Currently learning **MERN Stack**.
-- 🔭 Exploring **AI/ML**, **DevOps**, **Android Development**, **iOS Development**, and **Web3** in the future.
-- 🎮 Love creating innovative and fun projects.
-- ✨ Building a journey to inspire and contribute to the developer community.
+- 🌱 **Currently Learning**: MERN Stack (MongoDB, Express.js, React.js, Node.js).
+- 🤖 **Future Goals**: Explore **AI/ML**, **DevOps**, **Android/iOS Development**, and **Web3**.
+- 🎯 **Fun Fact**: I can turn bugs into "unexpected features"! 🐛✨
+- 🛠️ **Hobbies**: Coding cool stuff, making people laugh, and finding excuses to avoid debugging.
 
 ---
 
@@ -25,36 +26,40 @@
 
 ---
 
-<!-- Funny Contribution Animation -->
+<!-- Snake Animation -->
 <div align="center">
-  <h3>🐍 Snake Eating Contributions 🐍</h3>
+  <h3>🐍 Watch Out for the Contribution-Eating Snake! 🐍</h3>
   <img src="https://github.com/CholexMax/CholexMax/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
 
 ---
 
-<!-- Cool GIF Section -->
+<!-- Funny GIFs Section -->
 <div align="center">
-  <h3>✨ Check out some cool vibes! ✨</h3>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Coding Animation">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Funny Animation">
+  <h3>😂 Here's Some Fun Stuff! 😂</h3>
+  <img src="https://media.giphy.com/media/f7SThGA3WzFgRW09Qr/giphy.gif" width="300" alt="Cat Coding">
+  <img src="https://media.giphy.com/media/l4FGDAxSKKnw9u8Xe/giphy.gif" width="300" alt="Funny Developer">
+  <p><em>...When the code finally works after hours of debugging. 🙈</em></p>
 </div>
 
 ---
 
-<!-- Skills Section -->
-### ⚡ My Tech Skills
-| 🚀 Frontend | 💾 Backend | 🎨 Design | 🛠 Tools |
-|-------------|------------|-----------|----------|
-| HTML, CSS   | Node.js    | Figma     | Git      |
-| JavaScript  | Express.js | Photoshop | GitHub   |
-| React.js    | MongoDB    | Canva     | VS Code  |
+<!-- Cool Skillset -->
+### 🛠️ My Tech Arsenal
+| 💻 Frontend         | ⚙️ Backend         | 🎨 Design Tools       | 🛠️ Dev Tools         |
+|---------------------|--------------------|-----------------------|----------------------|
+| HTML, CSS, React.js | Node.js, Express.js | Figma, Photoshop      | Git, GitHub, VS Code |
+| JavaScript          | MongoDB            | Canva                 | Terminal Magic       |
 
 ---
 
-<!-- Footer Section -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="150" alt="Happy Animation">
-  <h3>Thanks for stopping by! 😄</h3>
-  <p>Let's build something awesome together! 🚀</p>
-</div>
+<!-- Funny Life Cycle Section -->
+### 🔄 My Life as a Developer:
+```mermaid
+graph TD;
+  Start[Wake Up ☀️] --> Coffee{Drink Coffee? ☕};
+  Coffee -- Yes --> Code["Write Amazing Code! 💻"];
+  Coffee -- No --> Debug["Cry Over Bugs 🐛😭"];
+  Code --> Eat["Eat Snacks 🍕"];
+  Debug --> Retry["Try Again Tomorrow 😅"];
+
