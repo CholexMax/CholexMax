@@ -23,7 +23,7 @@ Hi there! 👋 I'm an enthusiastic **MERN Stack Developer** currently diving dee
 
 > To add this cool animation on your GitHub contributions graph, follow these steps:
 
-![GitHub Snake Animation](https://github.com/CholexMax/YourRepositoryName/blob/main/dist/snake.svg)
+![GitHub Snake Animation](https://github.com/CholexMax/CholexMax/blob/main/dist/snake.svg)
 
 
 ---
