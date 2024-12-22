@@ -24,15 +24,6 @@
   </a>
 </div>
 
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <h3>🐍 Watch Out for the Contribution-Eating Snake! 🐍</h3>
-  <img src="https://github.com/CholexMax/CholexMax/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
-
----
 
 <!-- Funny GIFs Section -->
 <div align="center">
