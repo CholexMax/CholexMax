@@ -1,80 +1,60 @@
-# 🌟 Welcome to My Animated README! 🌟
-
-Hi there! 👋 I'm an enthusiastic **MERN Stack Developer** currently diving deep into the world of **React.js, Node.js, Express, and MongoDB**. I dream of expanding my skillset into **AI/ML**, **DevOps**, **Android Development**, **Ethical Hacking**, **iOS Development**, and **Web3**! 
-
-### 👾 Here's a little animated sneak peek:
-<a href="https://app.daily.dev/cholexmax">
-  <img src="https://api.daily.dev/devcards/v2/khEBosXNImqe4izloUnb2.png?type=default&r=zmz" width="356" alt="CholexMax's Dev Card"/>
-</a>
+<!-- Welcome Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Welcome Animation">
+  <h1>Hi there, I'm <strong>CholexMax</strong>! 👋</h1>
+  <p>Welcome to my GitHub profile! 🚀 Let's explore some cool projects together. 🛠️</p>
+</div>
 
 ---
 
-## 🚀 Skills & Journey So Far:
-
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js
-- 📦 **Backend**: Node.js, Express.js
-- 🗄️ **Database**: MongoDB
-- 💻 **Other Tools**: Git, VS Code, Figma
-- 🌱 **Currently Learning**: MERN stack in-depth!
-
----
-
-### 🐍 Animated Snake Eating Contributions
-
-> To add this cool animation on your GitHub contributions graph, follow these steps:
-
-![GitHub Snake Animation](https://github.com/CholexMax/CholexMax/blob/main/dist/snake.svg)
-
+<!-- About Me -->
+### 🌟 About Me
+- 🌱 Currently learning **MERN Stack**.
+- 🔭 Exploring **AI/ML**, **DevOps**, **Android Development**, **iOS Development**, and **Web3** in the future.
+- 🎮 Love creating innovative and fun projects.
+- ✨ Building a journey to inspire and contribute to the developer community.
 
 ---
 
-### 🔮 The Future Roadmap:
-
-Here's what I'm planning to learn:
-
-1. 🤖 **AI/ML**: Exploring the world of machine learning and neural networks.
-2. 🛠️ **DevOps**: Automating CI/CD pipelines and mastering Docker, Kubernetes.
-3. 📱 **Android Development**: Building amazing apps with Kotlin and Flutter.
-4. 🔓 **Ethical Hacking**: Cybersecurity practices to safeguard the web.
-5. 🍎 **iOS Development**: Crafting sleek iOS applications.
-6. 🌐 **Web3**: Diving into blockchain and decentralized applications.
+<!-- Developer Card -->
+<div align="center">
+  <a href="https://app.daily.dev/cholexmax">
+    <img src="https://api.daily.dev/devcards/v2/khEBosXNImqe4izloUnb2.png?type=default&r=zmz" width="350" alt="CholexMax's Dev Card">
+  </a>
+</div>
 
 ---
 
-## 🎨 Fun Animations
-
-- 🌟 _Here are some delightful animations for you to enjoy!_
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Code Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Work in Progress"/>
-</p>
+<!-- Funny Contribution Animation -->
+<div align="center">
+  <h3>🐍 Snake Eating Contributions 🐍</h3>
+  <img src="https://github.com/CholexMax/CholexMax/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-> Here are some auto-generated GitHub stats to make things extra shiny:
-
-```html
-![CholexMax's GitHub stats](https://github-readme-stats.vercel.app/api?CholexMax=YourUsername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CholexMax=YourUsername&layout=compact&theme=radical)
-```
+<!-- Cool GIF Section -->
+<div align="center">
+  <h3>✨ Check out some cool vibes! ✨</h3>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Funny Animation">
+</div>
 
 ---
 
-## 💬 Let's Connect!
-
-- 🌐 [Daily.dev Profile](https://app.daily.dev/cholexmax)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [Your Twitter](https://twitter.com/yourhandle)
-- 📧 Email: yourname@example.com
+<!-- Skills Section -->
+### ⚡ My Tech Skills
+| 🚀 Frontend | 💾 Backend | 🎨 Design | 🛠 Tools |
+|-------------|------------|-----------|----------|
+| HTML, CSS   | Node.js    | Figma     | Git      |
+| JavaScript  | Express.js | Photoshop | GitHub   |
+| React.js    | MongoDB    | Canva     | VS Code  |
 
 ---
 
-### ⭐ Fun Fact:
-I believe coding is like magic ✨; you write spells (code) and make things come to life! 🪄
+<!-- Footer Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="150" alt="Happy Animation">
+  <h3>Thanks for stopping by! 😄</h3>
+  <p>Let's build something awesome together! 🚀</p>
+</div>
