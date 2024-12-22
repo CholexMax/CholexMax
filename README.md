@@ -53,3 +53,5 @@ graph TD;
   Coffee -- No --> Debug["Cry Over Bugs 🐛😭"];
   Code --> Eat["Eat Snacks 🍕"];
   Debug --> Retry["Try Again Tomorrow 😅"];
+```
+<p align="center"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Wavy Background" width="100%"> </p>
