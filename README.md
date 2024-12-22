@@ -19,9 +19,7 @@
 
 <!-- Developer Card -->
 <div align="center">
-  <a href="https://app.daily.dev/cholexmax">
-    <img src="https://api.daily.dev/devcards/v2/khEBosXNImqe4izloUnb2.png?type=default&r=zmz" width="350" alt="CholexMax's Dev Card">
-  </a>
+<a href="https://app.daily.dev/cholexmax"><img src="https://api.daily.dev/devcards/v2/khEBosXNImqe4izloUnb2.png?type=wide&r=ary" width="652" alt="CholexMax's Dev Card"/></a>
 </div>
 
 
