@@ -23,10 +23,8 @@ Hi there! 👋 I'm an enthusiastic **MERN Stack Developer** currently diving dee
 
 > To add this cool animation on your GitHub contributions graph, follow these steps:
 
-```html
-![GitHub Snake Animation](https://github.com/CholexMax/CholexMax/blob/output/github-contribution-grid-snake.svg)
-```
-> Replace `username` with your GitHub username, and ensure the file exists in the `output` branch of your repo. The animation will show your contributions eaten by a snake! 🐍
+![GitHub Snake Animation](https://github.com/CholexMax/YourRepositoryName/blob/main/dist/snake.svg)
+
 
 ---
 
