@@ -1,5 +1,6 @@
 <!-- Welcome Section -->
 
+![Gradient Animation](https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=ff7eb3,57c1eb&height=100&section=header&text=Your%20Text%20Here&fontSize=24&fontColor=ffffff&animation=fadeIn)
 
 
 
@@ -11,7 +12,7 @@
   />
 </a>
 
-![Animated Gradient](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F260,0575E6&background=FFFFFF00&center=true&vCenter=true&lines=Be+a+best+enginner+in+world+i+have+to+think+to+create+a+new+product;Another+Animated+Line;Customizable+Gradient)
+
 
   
   
