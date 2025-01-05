@@ -6,6 +6,11 @@
 
 ![Blink Animation](https://capsule-render.vercel.app/api?type=soft&color=gradient&gradientColor=ff9966,ff5e62&height=100&section=header&text=Blink%20Effect&fontSize=24&fontColor=ffffff&animation=blink)
 
+![Shine Animation](https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=56CCF2,2F80ED&height=100&section=header&text=Shiny%20Gradient&fontSize=24&fontColor=ffffff&animation=shine)
+
+![Moving Gradient](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF7EB3,57C1EB&center=true&vCenter=true&lines=Animated+Gradient+Text;Cool+and+Dynamic;Simple+Copy+Paste)
+
+![Flaming Gradient](https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=ff0000,8B0000&height=120&s
 
 <a href="https://github.com/devxb/gitanimals">
   <img
