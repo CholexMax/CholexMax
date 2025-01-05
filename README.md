@@ -2,6 +2,7 @@
 
 ![Gradient Animation](https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=ff7eb3,57c1eb&height=100&section=header&text=be%20a+best+engineer%20Challenge+of+LIfe&fontSize=24&fontColor=ffffff&animation=fadeIn)
 
+![Wave Animation](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Hello%20World!&fontSize=24&fontColor=ffffff&animation=twinkling)
 
 
 <a href="https://github.com/devxb/gitanimals">
