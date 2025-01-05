@@ -4,6 +4,8 @@
 
 ![Wave Animation](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Hello%20World!&fontSize=24&fontColor=ffffff&animation=twinkling)
 
+![Blink Animation](https://capsule-render.vercel.app/api?type=soft&color=gradient&gradientColor=ff9966,ff5e62&height=100&section=header&text=Blink%20Effect&fontSize=24&fontColor=ffffff&animation=blink)
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
