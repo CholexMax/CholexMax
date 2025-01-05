@@ -10,6 +10,9 @@
     height="120"
   />
 </a>
+
+![Animated Gradient](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F260,0575E6&background=FFFFFF00&center=true&vCenter=true&lines=Your+Text+Here;Another+Animated+Line;Customizable+Gradient)
+
   
   
 
